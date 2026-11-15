@@ -1,0 +1,132 @@
+{
+  "polygon_id": "HORTO-09",
+  "name": "Hortob\u00e1gy Fishpond Unit 09",
+  "zone": "Hortobagy_Fishponds",
+  "total_area_ha": 390.0,
+  "baseline_hv_stratification": "Open Water / Shallow Mudflat (Low Baseline HV)",
+  "default_pair": "2026-06-18 -> 2026-08-29",
+  "change_class": "likely_water_gain",
+  "delta_water_ha": 17.6,
+  "delta_hh_db": -0.86,
+  "threshold_t_final_db": 5.33,
+  "clears_threshold": false,
+  "confidence_tier": "Moderate",
+  "confidence_badges": {
+    "same_crid_and_orbit": true,
+    "valid_mask_and_qa": true,
+    "delta_db_clears_t_final": false,
+    "external_reference_agrees": true
+  },
+  "timeseries": [
+    {
+      "date": "2026-06-18",
+      "crid": "P05023",
+      "hh_db": -18.32,
+      "hv_db": -23.84,
+      "hv_carried_from": null,
+      "water_area_ha": 336.24,
+      "water_pct": 86.2,
+      "reed_cover_pct": 6.4
+    },
+    {
+      "date": "2026-06-30",
+      "crid": "P05023",
+      "hh_db": -19.23,
+      "hv_db": -23.8,
+      "hv_carried_from": null,
+      "water_area_ha": 352.88,
+      "water_pct": 90.5,
+      "reed_cover_pct": 4.5
+    },
+    {
+      "date": "2026-07-12",
+      "crid": "P05023",
+      "hh_db": -19.24,
+      "hv_db": -24.11,
+      "hv_carried_from": null,
+      "water_area_ha": 355.28,
+      "water_pct": 91.1,
+      "reed_cover_pct": 4.5
+    },
+    {
+      "date": "2026-07-24",
+      "crid": "P05023",
+      "hh_db": -19.2,
+      "hv_db": -23.98,
+      "hv_carried_from": null,
+      "water_area_ha": 355.56,
+      "water_pct": 91.2,
+      "reed_cover_pct": 4.2
+    },
+    {
+      "date": "2026-08-17",
+      "crid": "P05023",
+      "hh_db": -19.37,
+      "hv_db": -24.63,
+      "hv_carried_from": null,
+      "water_area_ha": 354.2,
+      "water_pct": 90.8,
+      "reed_cover_pct": 4.3
+    },
+    {
+      "date": "2026-08-29",
+      "crid": "P05023",
+      "hh_db": -19.18,
+      "hv_db": null,
+      "hv_carried_from": "2026-08-17",
+      "water_area_ha": 353.84,
+      "water_pct": 90.7,
+      "reed_cover_pct": 4.3
+    },
+    {
+      "date": "2026-09-10",
+      "crid": "P05023",
+      "hh_db": -19.32,
+      "hv_db": -24.51,
+      "hv_carried_from": null,
+      "water_area_ha": 355.68,
+      "water_pct": 91.2,
+      "reed_cover_pct": 4.9
+    },
+    {
+      "date": "2026-09-22",
+      "crid": "P05023",
+      "hh_db": -19.35,
+      "hv_db": null,
+      "hv_carried_from": "2026-09-10",
+      "water_area_ha": 356.48,
+      "water_pct": 91.4,
+      "reed_cover_pct": 4.9
+    },
+    {
+      "date": "2026-10-04",
+      "crid": "P05023",
+      "hh_db": -19.31,
+      "hv_db": -24.21,
+      "hv_carried_from": null,
+      "water_area_ha": 353.52,
+      "water_pct": 90.6,
+      "reed_cover_pct": 5.3
+    },
+    {
+      "date": "2026-10-16",
+      "crid": "P05023",
+      "hh_db": -17.52,
+      "hv_db": -23.59,
+      "hv_carried_from": null,
+      "water_area_ha": 325.28,
+      "water_pct": 83.4,
+      "reed_cover_pct": 5.7
+    },
+    {
+      "date": "2026-10-28",
+      "crid": "P05036",
+      "hh_db": -16.45,
+      "hv_db": -23.31,
+      "hv_carried_from": null,
+      "water_area_ha": 293.88,
+      "water_pct": 75.4,
+      "reed_cover_pct": 8.8
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+[
+  {
+    "date": "2026-06-18",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.85,
+    "tiszavalki_water_km2": 43.83,
+    "hortobagy_water_km2": 35.53,
+    "kiskore_felso_stage_cm": 749,
+    "lake_volume_mcm": 261.55,
+    "szolnok_flow_m3s": 80.5,
+    "raster_layer": "rasters/tisza_2026-06-18.png"
+  },
+  {
+    "date": "2026-06-30",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.86,
+    "tiszavalki_water_km2": 43.81,
+    "hortobagy_water_km2": 39.98,
+    "kiskore_felso_stage_cm": 738,
+    "lake_volume_mcm": 248.0,
+    "szolnok_flow_m3s": 69.0,
+    "raster_layer": "rasters/tisza_2026-06-30.png"
+  },
+  {
+    "date": "2026-07-12",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.69,
+    "tiszavalki_water_km2": 42.67,
+    "hortobagy_water_km2": 40.28,
+    "kiskore_felso_stage_cm": 726,
+    "lake_volume_mcm": 235.3,
+    "szolnok_flow_m3s": 62.3,
+    "raster_layer": "rasters/tisza_2026-07-12.png"
+  },
+  {
+    "date": "2026-07-24",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.77,
+    "tiszavalki_water_km2": 41.75,
+    "hortobagy_water_km2": 40.55,
+    "kiskore_felso_stage_cm": 710,
+    "lake_volume_mcm": 215.0,
+    "szolnok_flow_m3s": 61.0,
+    "raster_layer": "rasters/tisza_2026-07-24.png"
+  },
+  {
+    "date": "2026-08-17",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.85,
+    "tiszavalki_water_km2": 38.7,
+    "hortobagy_water_km2": 40.46,
+    "kiskore_felso_stage_cm": 642,
+    "lake_volume_mcm": 137.7,
+    "szolnok_flow_m3s": 60.3,
+    "raster_layer": "rasters/tisza_2026-08-17.png"
+  },
+  {
+    "date": "2026-08-29",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH"
+    ],
+    "hv_carried_forward_from": "2026-08-17",
+    "scene_threshold_db": -14.73,
+    "tiszavalki_water_km2": 36.84,
+    "hortobagy_water_km2": 40.46,
+    "kiskore_felso_stage_cm": 610,
+    "lake_volume_mcm": 113.5,
+    "szolnok_flow_m3s": 36.5,
+    "raster_layer": "rasters/tisza_2026-08-29.png"
+  },
+  {
+    "date": "2026-09-10",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.76,
+    "tiszavalki_water_km2": 37.71,
+    "hortobagy_water_km2": 40.54,
+    "kiskore_felso_stage_cm": 609,
+    "lake_volume_mcm": 112.45,
+    "szolnok_flow_m3s": 33.0,
+    "raster_layer": "rasters/tisza_2026-09-10.png"
+  },
+  {
+    "date": "2026-09-22",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH"
+    ],
+    "hv_carried_forward_from": "2026-09-10",
+    "scene_threshold_db": -14.87,
+    "tiszavalki_water_km2": 39.99,
+    "hortobagy_water_km2": 40.6,
+    "kiskore_felso_stage_cm": 613,
+    "lake_volume_mcm": 116.65,
+    "szolnok_flow_m3s": 33.5,
+    "raster_layer": "rasters/tisza_2026-09-22.png"
+  },
+  {
+    "date": "2026-10-04",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -15.07,
+    "tiszavalki_water_km2": 40.46,
+    "hortobagy_water_km2": 40.35,
+    "kiskore_felso_stage_cm": 615,
+    "lake_volume_mcm": 118.8,
+    "szolnok_flow_m3s": 34.0,
+    "raster_layer": "rasters/tisza_2026-10-04.png"
+  },
+  {
+    "date": "2026-10-16",
+    "crid": "P05023",
+    "segment": "PROVISIONAL_P05023",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.72,
+    "tiszavalki_water_km2": 38.0,
+    "hortobagy_water_km2": 36.28,
+    "kiskore_felso_stage_cm": 625,
+    "lake_volume_mcm": 124.5,
+    "szolnok_flow_m3s": 34.5,
+    "raster_layer": "rasters/tisza_2026-10-16.png"
+  },
+  {
+    "date": "2026-10-28",
+    "crid": "P05036",
+    "segment": "VALIDATED_P05036",
+    "polarizations": [
+      "HH",
+      "HV"
+    ],
+    "hv_carried_forward_from": null,
+    "scene_threshold_db": -14.53,
+    "tiszavalki_water_km2": 41.55,
+    "hortobagy_water_km2": 32.46,
+    "kiskore_felso_stage_cm": 643,
+    "lake_volume_mcm": 138.7,
+    "szolnok_flow_m3s": 46.0,
+    "raster_layer": "rasters/tisza_2026-10-28.png"
+  }
+]

@@ -1,0 +1,1685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TISZA-01",
+      "properties": {
+        "polygon_id": "TISZA-01",
+        "name": "Tiszavalki Sub-Basin Sector 01",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "persistent_water",
+        "delta_water_ha": 9.28,
+        "delta_hh_db": -0.48,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.58731,
+              47.6229
+            ],
+            [
+              20.60595,
+              47.6229
+            ],
+            [
+              20.60595,
+              47.64286
+            ],
+            [
+              20.58731,
+              47.64286
+            ],
+            [
+              20.58731,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-02",
+      "properties": {
+        "polygon_id": "TISZA-02",
+        "name": "Tiszavalki Sub-Basin Sector 02",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 15.68,
+        "delta_hh_db": -0.42,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.60622,
+              47.6229
+            ],
+            [
+              20.62486,
+              47.6229
+            ],
+            [
+              20.62486,
+              47.64286
+            ],
+            [
+              20.60622,
+              47.64286
+            ],
+            [
+              20.60622,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-03",
+      "properties": {
+        "polygon_id": "TISZA-03",
+        "name": "Tiszavalki Sub-Basin Sector 03",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "persistent_water",
+        "delta_water_ha": -5.2,
+        "delta_hh_db": -0.79,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.62513,
+              47.6229
+            ],
+            [
+              20.64377,
+              47.6229
+            ],
+            [
+              20.64377,
+              47.64286
+            ],
+            [
+              20.62513,
+              47.64286
+            ],
+            [
+              20.62513,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-04",
+      "properties": {
+        "polygon_id": "TISZA-04",
+        "name": "Tiszavalki Sub-Basin Sector 04",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": -9.24,
+        "delta_hh_db": -2.19,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.64404,
+              47.6229
+            ],
+            [
+              20.66268,
+              47.6229
+            ],
+            [
+              20.66268,
+              47.64286
+            ],
+            [
+              20.64404,
+              47.64286
+            ],
+            [
+              20.64404,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-05",
+      "properties": {
+        "polygon_id": "TISZA-05",
+        "name": "Tiszavalki Sub-Basin Sector 05",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -89.32,
+        "delta_hh_db": 4.74,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.66295,
+              47.6229
+            ],
+            [
+              20.68159,
+              47.6229
+            ],
+            [
+              20.68159,
+              47.64286
+            ],
+            [
+              20.66295,
+              47.64286
+            ],
+            [
+              20.66295,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-06",
+      "properties": {
+        "polygon_id": "TISZA-06",
+        "name": "Tiszavalki Sub-Basin Sector 06",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -51.2,
+        "delta_hh_db": -1.06,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.68186,
+              47.6229
+            ],
+            [
+              20.7005,
+              47.6229
+            ],
+            [
+              20.7005,
+              47.64286
+            ],
+            [
+              20.68186,
+              47.64286
+            ],
+            [
+              20.68186,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-07",
+      "properties": {
+        "polygon_id": "TISZA-07",
+        "name": "Tiszavalki Sub-Basin Sector 07",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": -0.92,
+        "delta_hh_db": -0.87,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.70077,
+              47.6229
+            ],
+            [
+              20.71941,
+              47.6229
+            ],
+            [
+              20.71941,
+              47.64286
+            ],
+            [
+              20.70077,
+              47.64286
+            ],
+            [
+              20.70077,
+              47.6229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-08",
+      "properties": {
+        "polygon_id": "TISZA-08",
+        "name": "Tiszavalki Sub-Basin Sector 08",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "persistent_water",
+        "delta_water_ha": 5.56,
+        "delta_hh_db": -0.05,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.58731,
+              47.60275
+            ],
+            [
+              20.60595,
+              47.60275
+            ],
+            [
+              20.60595,
+              47.62272
+            ],
+            [
+              20.58731,
+              47.62272
+            ],
+            [
+              20.58731,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-09",
+      "properties": {
+        "polygon_id": "TISZA-09",
+        "name": "Tiszavalki Sub-Basin Sector 09",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 20.24,
+        "delta_hh_db": -0.62,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.60622,
+              47.60275
+            ],
+            [
+              20.62486,
+              47.60275
+            ],
+            [
+              20.62486,
+              47.62272
+            ],
+            [
+              20.60622,
+              47.62272
+            ],
+            [
+              20.60622,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-10",
+      "properties": {
+        "polygon_id": "TISZA-10",
+        "name": "Tiszavalki Sub-Basin Sector 10",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -17.6,
+        "delta_hh_db": 0.96,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.62513,
+              47.60275
+            ],
+            [
+              20.64377,
+              47.60275
+            ],
+            [
+              20.64377,
+              47.62272
+            ],
+            [
+              20.62513,
+              47.62272
+            ],
+            [
+              20.62513,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-11",
+      "properties": {
+        "polygon_id": "TISZA-11",
+        "name": "Tiszavalki Sub-Basin Sector 11",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -15.8,
+        "delta_hh_db": 2.21,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.64404,
+              47.60275
+            ],
+            [
+              20.66268,
+              47.60275
+            ],
+            [
+              20.66268,
+              47.62272
+            ],
+            [
+              20.64404,
+              47.62272
+            ],
+            [
+              20.64404,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-12",
+      "properties": {
+        "polygon_id": "TISZA-12",
+        "name": "Tiszavalki Sub-Basin Sector 12",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -65.72,
+        "delta_hh_db": 2.45,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.66295,
+              47.60275
+            ],
+            [
+              20.68159,
+              47.60275
+            ],
+            [
+              20.68159,
+              47.62272
+            ],
+            [
+              20.66295,
+              47.62272
+            ],
+            [
+              20.66295,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-13",
+      "properties": {
+        "polygon_id": "TISZA-13",
+        "name": "Tiszavalki Sub-Basin Sector 13",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -62.2,
+        "delta_hh_db": 2.42,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.68186,
+              47.60275
+            ],
+            [
+              20.7005,
+              47.60275
+            ],
+            [
+              20.7005,
+              47.62272
+            ],
+            [
+              20.68186,
+              47.62272
+            ],
+            [
+              20.68186,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-14",
+      "properties": {
+        "polygon_id": "TISZA-14",
+        "name": "Tiszavalki Sub-Basin Sector 14",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -21.64,
+        "delta_hh_db": -1.28,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.70077,
+              47.60275
+            ],
+            [
+              20.71941,
+              47.60275
+            ],
+            [
+              20.71941,
+              47.62272
+            ],
+            [
+              20.70077,
+              47.62272
+            ],
+            [
+              20.70077,
+              47.60275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-15",
+      "properties": {
+        "polygon_id": "TISZA-15",
+        "name": "Tiszavalki Sub-Basin Sector 15",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -17.2,
+        "delta_hh_db": 0.15,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.58731,
+              47.58261
+            ],
+            [
+              20.60595,
+              47.58261
+            ],
+            [
+              20.60595,
+              47.60257
+            ],
+            [
+              20.58731,
+              47.60257
+            ],
+            [
+              20.58731,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-16",
+      "properties": {
+        "polygon_id": "TISZA-16",
+        "name": "Tiszavalki Sub-Basin Sector 16",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -31.92,
+        "delta_hh_db": 0.88,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.60622,
+              47.58261
+            ],
+            [
+              20.62486,
+              47.58261
+            ],
+            [
+              20.62486,
+              47.60257
+            ],
+            [
+              20.60622,
+              47.60257
+            ],
+            [
+              20.60622,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-17",
+      "properties": {
+        "polygon_id": "TISZA-17",
+        "name": "Tiszavalki Sub-Basin Sector 17",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -60.32,
+        "delta_hh_db": 4.94,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.62513,
+              47.58261
+            ],
+            [
+              20.64377,
+              47.58261
+            ],
+            [
+              20.64377,
+              47.60257
+            ],
+            [
+              20.62513,
+              47.60257
+            ],
+            [
+              20.62513,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-18",
+      "properties": {
+        "polygon_id": "TISZA-18",
+        "name": "Tiszavalki Sub-Basin Sector 18",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -33.8,
+        "delta_hh_db": 1.33,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.64404,
+              47.58261
+            ],
+            [
+              20.66268,
+              47.58261
+            ],
+            [
+              20.66268,
+              47.60257
+            ],
+            [
+              20.64404,
+              47.60257
+            ],
+            [
+              20.64404,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-19",
+      "properties": {
+        "polygon_id": "TISZA-19",
+        "name": "Tiszavalki Sub-Basin Sector 19",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -87.4,
+        "delta_hh_db": 1.66,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.66295,
+              47.58261
+            ],
+            [
+              20.68159,
+              47.58261
+            ],
+            [
+              20.68159,
+              47.60257
+            ],
+            [
+              20.66295,
+              47.60257
+            ],
+            [
+              20.66295,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-20",
+      "properties": {
+        "polygon_id": "TISZA-20",
+        "name": "Tiszavalki Sub-Basin Sector 20",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -30.4,
+        "delta_hh_db": -0.81,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.68186,
+              47.58261
+            ],
+            [
+              20.7005,
+              47.58261
+            ],
+            [
+              20.7005,
+              47.60257
+            ],
+            [
+              20.68186,
+              47.60257
+            ],
+            [
+              20.68186,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-21",
+      "properties": {
+        "polygon_id": "TISZA-21",
+        "name": "Tiszavalki Sub-Basin Sector 21",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": 2.96,
+        "delta_hh_db": -0.98,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.70077,
+              47.58261
+            ],
+            [
+              20.71941,
+              47.58261
+            ],
+            [
+              20.71941,
+              47.60257
+            ],
+            [
+              20.70077,
+              47.60257
+            ],
+            [
+              20.70077,
+              47.58261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-22",
+      "properties": {
+        "polygon_id": "TISZA-22",
+        "name": "Tiszavalki Sub-Basin Sector 22",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "persistent_water",
+        "delta_water_ha": -4.0,
+        "delta_hh_db": -0.25,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.58731,
+              47.56246
+            ],
+            [
+              20.60595,
+              47.56246
+            ],
+            [
+              20.60595,
+              47.58243
+            ],
+            [
+              20.58731,
+              47.58243
+            ],
+            [
+              20.58731,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-23",
+      "properties": {
+        "polygon_id": "TISZA-23",
+        "name": "Tiszavalki Sub-Basin Sector 23",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -36.24,
+        "delta_hh_db": 3.14,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.60622,
+              47.56246
+            ],
+            [
+              20.62486,
+              47.56246
+            ],
+            [
+              20.62486,
+              47.58243
+            ],
+            [
+              20.60622,
+              47.58243
+            ],
+            [
+              20.60622,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-24",
+      "properties": {
+        "polygon_id": "TISZA-24",
+        "name": "Tiszavalki Sub-Basin Sector 24",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -57.72,
+        "delta_hh_db": 0.32,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.62513,
+              47.56246
+            ],
+            [
+              20.64377,
+              47.56246
+            ],
+            [
+              20.64377,
+              47.58243
+            ],
+            [
+              20.62513,
+              47.58243
+            ],
+            [
+              20.62513,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-25",
+      "properties": {
+        "polygon_id": "TISZA-25",
+        "name": "Tiszavalki Sub-Basin Sector 25",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "likely_water_loss",
+        "delta_water_ha": -32.16,
+        "delta_hh_db": 2.36,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.64404,
+              47.56246
+            ],
+            [
+              20.66268,
+              47.56246
+            ],
+            [
+              20.66268,
+              47.58243
+            ],
+            [
+              20.64404,
+              47.58243
+            ],
+            [
+              20.64404,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-26",
+      "properties": {
+        "polygon_id": "TISZA-26",
+        "name": "Tiszavalki Sub-Basin Sector 26",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": -7.92,
+        "delta_hh_db": -1.46,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.66295,
+              47.56246
+            ],
+            [
+              20.68159,
+              47.56246
+            ],
+            [
+              20.68159,
+              47.58243
+            ],
+            [
+              20.66295,
+              47.58243
+            ],
+            [
+              20.66295,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-27",
+      "properties": {
+        "polygon_id": "TISZA-27",
+        "name": "Tiszavalki Sub-Basin Sector 27",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": -5.12,
+        "delta_hh_db": -0.71,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.68186,
+              47.56246
+            ],
+            [
+              20.7005,
+              47.56246
+            ],
+            [
+              20.7005,
+              47.58243
+            ],
+            [
+              20.68186,
+              47.58243
+            ],
+            [
+              20.68186,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TISZA-28",
+      "properties": {
+        "polygon_id": "TISZA-28",
+        "name": "Tiszavalki Sub-Basin Sector 28",
+        "zone": "Tiszavalki_Basin",
+        "total_area_ha": 318.1,
+        "change_class": "uncertain_or_stable_land",
+        "delta_water_ha": -8.32,
+        "delta_hh_db": -2.02,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.70077,
+              47.56246
+            ],
+            [
+              20.71941,
+              47.56246
+            ],
+            [
+              20.71941,
+              47.58243
+            ],
+            [
+              20.70077,
+              47.58243
+            ],
+            [
+              20.70077,
+              47.56246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-01",
+      "properties": {
+        "polygon_id": "HORTO-01",
+        "name": "Hortob\u00e1gy Fishpond Unit 01",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 33.2,
+        "delta_hh_db": 0.02,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.09335,
+              47.61966
+            ],
+            [
+              21.11306,
+              47.61966
+            ],
+            [
+              21.11306,
+              47.64286
+            ],
+            [
+              21.09335,
+              47.64286
+            ],
+            [
+              21.09335,
+              47.61966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-02",
+      "properties": {
+        "polygon_id": "HORTO-02",
+        "name": "Hortob\u00e1gy Fishpond Unit 02",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 65.08,
+        "delta_hh_db": -1.19,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.11333,
+              47.61966
+            ],
+            [
+              21.13304,
+              47.61966
+            ],
+            [
+              21.13304,
+              47.64286
+            ],
+            [
+              21.11333,
+              47.64286
+            ],
+            [
+              21.11333,
+              47.61966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-03",
+      "properties": {
+        "polygon_id": "HORTO-03",
+        "name": "Hortob\u00e1gy Fishpond Unit 03",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 20.36,
+        "delta_hh_db": -0.85,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1333,
+              47.61966
+            ],
+            [
+              21.15301,
+              47.61966
+            ],
+            [
+              21.15301,
+              47.64286
+            ],
+            [
+              21.1333,
+              47.64286
+            ],
+            [
+              21.1333,
+              47.61966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-04",
+      "properties": {
+        "polygon_id": "HORTO-04",
+        "name": "Hortob\u00e1gy Fishpond Unit 04",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "persistent_water",
+        "delta_water_ha": 8.12,
+        "delta_hh_db": -0.52,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.15328,
+              47.61966
+            ],
+            [
+              21.17299,
+              47.61966
+            ],
+            [
+              21.17299,
+              47.64286
+            ],
+            [
+              21.15328,
+              47.64286
+            ],
+            [
+              21.15328,
+              47.61966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-05",
+      "properties": {
+        "polygon_id": "HORTO-05",
+        "name": "Hortob\u00e1gy Fishpond Unit 05",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 89.08,
+        "delta_hh_db": -1.59,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.09335,
+              47.59628
+            ],
+            [
+              21.11306,
+              47.59628
+            ],
+            [
+              21.11306,
+              47.61948
+            ],
+            [
+              21.09335,
+              47.61948
+            ],
+            [
+              21.09335,
+              47.59628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-06",
+      "properties": {
+        "polygon_id": "HORTO-06",
+        "name": "Hortob\u00e1gy Fishpond Unit 06",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 87.76,
+        "delta_hh_db": -2.14,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.11333,
+              47.59628
+            ],
+            [
+              21.13304,
+              47.59628
+            ],
+            [
+              21.13304,
+              47.61948
+            ],
+            [
+              21.11333,
+              47.61948
+            ],
+            [
+              21.11333,
+              47.59628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-07",
+      "properties": {
+        "polygon_id": "HORTO-07",
+        "name": "Hortob\u00e1gy Fishpond Unit 07",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 69.16,
+        "delta_hh_db": -2.94,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1333,
+              47.59628
+            ],
+            [
+              21.15301,
+              47.59628
+            ],
+            [
+              21.15301,
+              47.61948
+            ],
+            [
+              21.1333,
+              47.61948
+            ],
+            [
+              21.1333,
+              47.59628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-08",
+      "properties": {
+        "polygon_id": "HORTO-08",
+        "name": "Hortob\u00e1gy Fishpond Unit 08",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 33.16,
+        "delta_hh_db": -2.02,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.15328,
+              47.59628
+            ],
+            [
+              21.17299,
+              47.59628
+            ],
+            [
+              21.17299,
+              47.61948
+            ],
+            [
+              21.15328,
+              47.61948
+            ],
+            [
+              21.15328,
+              47.59628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-09",
+      "properties": {
+        "polygon_id": "HORTO-09",
+        "name": "Hortob\u00e1gy Fishpond Unit 09",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 17.6,
+        "delta_hh_db": -0.86,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.09335,
+              47.5729
+            ],
+            [
+              21.11306,
+              47.5729
+            ],
+            [
+              21.11306,
+              47.5961
+            ],
+            [
+              21.09335,
+              47.5961
+            ],
+            [
+              21.09335,
+              47.5729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-10",
+      "properties": {
+        "polygon_id": "HORTO-10",
+        "name": "Hortob\u00e1gy Fishpond Unit 10",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 15.08,
+        "delta_hh_db": -1.07,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.11333,
+              47.5729
+            ],
+            [
+              21.13304,
+              47.5729
+            ],
+            [
+              21.13304,
+              47.5961
+            ],
+            [
+              21.11333,
+              47.5961
+            ],
+            [
+              21.11333,
+              47.5729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-11",
+      "properties": {
+        "polygon_id": "HORTO-11",
+        "name": "Hortob\u00e1gy Fishpond Unit 11",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 18.68,
+        "delta_hh_db": -1.49,
+        "confidence_tier": "Moderate",
+        "stratification": "Open Water / Shallow Mudflat (Low Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.1333,
+              47.5729
+            ],
+            [
+              21.15301,
+              47.5729
+            ],
+            [
+              21.15301,
+              47.5961
+            ],
+            [
+              21.1333,
+              47.5961
+            ],
+            [
+              21.1333,
+              47.5729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HORTO-12",
+      "properties": {
+        "polygon_id": "HORTO-12",
+        "name": "Hortob\u00e1gy Fishpond Unit 12",
+        "zone": "Hortobagy_Fishponds",
+        "total_area_ha": 390.0,
+        "change_class": "likely_water_gain",
+        "delta_water_ha": 31.08,
+        "delta_hh_db": -1.06,
+        "confidence_tier": "Moderate",
+        "stratification": "Emergent Reeds / Marsh (High Baseline HV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.15328,
+              47.5729
+            ],
+            [
+              21.17299,
+              47.5729
+            ],
+            [
+              21.17299,
+              47.5961
+            ],
+            [
+              21.15328,
+              47.5961
+            ],
+            [
+              21.15328,
+              47.5729
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

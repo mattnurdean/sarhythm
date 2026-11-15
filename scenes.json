@@ -1,0 +1,504 @@
+{
+  "collection_provisional": "NISAR_L2_GCOV_PROVISIONAL_V1 (C2854338529-ASF)",
+  "collection_validated": "NISAR_L2_GCOV_V1 (C3622241360-ASF)",
+  "track": 57,
+  "frame": 26,
+  "orbit_direction": "Ascending",
+  "epsg": 32634,
+  "pixel_spacing_m": 20,
+  "tisza_raster_bounds_wgs84": [
+    [
+      20.56067,
+      47.52613
+    ],
+    [
+      20.74684,
+      47.65186
+    ]
+  ],
+  "instrument_gap": {
+    "start": "2026-07-27T22:03:25Z",
+    "end": "2026-08-10T00:55:27Z"
+  },
+  "crid_boundary_date": "2026-10-21",
+  "scenes": [
+    {
+      "date": "2026-06-18",
+      "granule_id": "NISAR_L2_PR_GCOV_023_057_A_026_2005_DHDH_A_20260618T032944_20260618T033019_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.85,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-06-18",
+        "kiskore_felso_cm": 749,
+        "lake_volume_mcm": 261.55,
+        "usable_volume_mcm": 148.05,
+        "kiskore_also_cm": -310,
+        "kiskore_also_m3s": 80.1,
+        "szolnok_cm": -271,
+        "szolnok_m3s": 80.5,
+        "source": "KOTIVIZIG hidromete (2026-06-18)"
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "granule_id": "NISAR_L2_PR_GCOV_024_057_A_026_2005_DHDH_A_20260630T032943_20260630T033018_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.86,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-06-29",
+        "kiskore_felso_cm": 738,
+        "lake_volume_mcm": 248.0,
+        "usable_volume_mcm": 134.5,
+        "kiskore_also_cm": -328,
+        "kiskore_also_m3s": 68.0,
+        "szolnok_cm": -288,
+        "szolnok_m3s": 69.0,
+        "source": "Interpolated / Hydroinfo June end"
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "granule_id": "NISAR_L2_PR_GCOV_025_057_A_026_2005_DHDH_A_20260712T032943_20260712T033018_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.69,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-07-16",
+        "kiskore_felso_cm": 726,
+        "lake_volume_mcm": 235.3,
+        "usable_volume_mcm": 121.8,
+        "kiskore_also_cm": -342,
+        "kiskore_also_m3s": 61.4,
+        "szolnok_cm": -301,
+        "szolnok_m3s": 62.3,
+        "source": "KOTIVIZIG hidroi (2026-07-16)"
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "granule_id": "NISAR_L2_PR_GCOV_026_057_A_026_2005_DHDH_A_20260724T032942_20260724T033017_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.77,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-07-24",
+        "kiskore_felso_cm": 710,
+        "lake_volume_mcm": 215.0,
+        "usable_volume_mcm": 101.5,
+        "kiskore_also_cm": -345,
+        "kiskore_also_m3s": 60.2,
+        "szolnok_cm": -304,
+        "szolnok_m3s": 61.0,
+        "source": "Pre-gap July late bulletin"
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "granule_id": "NISAR_L2_PR_GCOV_028_057_A_026_2005_DHDH_A_20260817T032941_20260817T033016_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.85,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-08-19",
+        "kiskore_felso_cm": 642,
+        "lake_volume_mcm": 137.7,
+        "usable_volume_mcm": 24.2,
+        "kiskore_also_cm": -348,
+        "kiskore_also_m3s": 59.7,
+        "szolnok_cm": -306,
+        "szolnok_m3s": 60.3,
+        "source": "KOTIVIZIG hidra (2026-08-19)"
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "granule_id": "NISAR_L2_PR_GCOV_029_057_A_026_2005_SHSH_A_20260829T032941_20260829T033016_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH"
+      ],
+      "hv_carried_forward_from": "2026-08-17",
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.73,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": true
+      },
+      "gauge": {
+        "gauge_date": "2026-08-31",
+        "kiskore_felso_cm": 610,
+        "lake_volume_mcm": 113.5,
+        "usable_volume_mcm": 0.0,
+        "kiskore_also_cm": -375,
+        "kiskore_also_m3s": 36.0,
+        "szolnok_cm": -330,
+        "szolnok_m3s": 36.5,
+        "source": "Vizugy OpFeGrafikon (2026-08-31)"
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "granule_id": "NISAR_L2_PR_GCOV_030_057_A_026_2005_DHDH_A_20260910T032940_20260910T033015_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.76,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-09-15",
+        "kiskore_felso_cm": 609,
+        "lake_volume_mcm": 112.45,
+        "usable_volume_mcm": 0.0,
+        "kiskore_also_cm": -387,
+        "kiskore_also_m3s": 33.5,
+        "szolnok_cm": -341,
+        "szolnok_m3s": 33.0,
+        "source": "KOTIVIZIG vizhpzamok (2026-09-15)"
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "granule_id": "NISAR_L2_PR_GCOV_031_057_A_026_2005_SHSH_A_20260922T032940_20260922T033016_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH"
+      ],
+      "hv_carried_forward_from": "2026-09-10",
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.87,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": true
+      },
+      "gauge": {
+        "gauge_date": "2026-09-21",
+        "kiskore_felso_cm": 613,
+        "lake_volume_mcm": 116.65,
+        "usable_volume_mcm": 3.15,
+        "kiskore_also_cm": -373,
+        "kiskore_also_m3s": 34.5,
+        "szolnok_cm": -338,
+        "szolnok_m3s": 33.5,
+        "source": "KOTIVIZIG aaradnak-folyoink (2026-09-21)"
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "granule_id": "NISAR_L2_PR_GCOV_032_057_A_026_2005_DHDH_A_20261004T032940_20261004T033016_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -15.07,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-09-25",
+        "kiskore_felso_cm": 615,
+        "lake_volume_mcm": 118.8,
+        "usable_volume_mcm": 5.3,
+        "kiskore_also_cm": -378,
+        "kiskore_also_m3s": 34.0,
+        "szolnok_cm": -337,
+        "szolnok_m3s": 34.0,
+        "source": "KOTIVIZIG hidrometeorologia (2026-09-25)"
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "granule_id": "NISAR_L2_PR_GCOV_033_057_A_026_2005_DHDH_A_20261016T032941_20261016T033016_P05023_N_F_J_001",
+      "crid": "P05023",
+      "maturity": "PROVISIONAL",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.72,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-10-20",
+        "kiskore_felso_cm": 625,
+        "lake_volume_mcm": 124.5,
+        "usable_volume_mcm": 11.0,
+        "kiskore_also_cm": -387,
+        "kiskore_also_m3s": 32.5,
+        "szolnok_cm": -337,
+        "szolnok_m3s": 34.5,
+        "source": "KOTIVIZIG emelkedik-a-tisza-to-vizszintje (2026-10-20)"
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "granule_id": "NISAR_L2_PR_GCOV_034_057_A_026_2005_DHDH_A_20261028T032941_20261028T033016_P05036_N_F_J_001",
+      "crid": "P05036",
+      "maturity": "VALIDATED",
+      "track": 57,
+      "frame": 26,
+      "orbit_direction": "Ascending",
+      "polarizations": [
+        "HH",
+        "HV"
+      ],
+      "hv_carried_forward_from": null,
+      "pixel_spacing_m": 20,
+      "valid_data_pct_tisza": 100.0,
+      "valid_data_pct_horto": 100.0,
+      "valid_data_pct_urban": 100.0,
+      "median_effective_looks": 9.57,
+      "scene_adaptive_threshold_db": -14.53,
+      "quality_flags": {
+        "is_full_frame": true,
+        "has_input_exception": false,
+        "is_urgent": false,
+        "diagnostic_mode": false,
+        "hh_only_stratification_carried": false
+      },
+      "gauge": {
+        "gauge_date": "2026-10-26",
+        "kiskore_felso_cm": 643,
+        "lake_volume_mcm": 138.7,
+        "usable_volume_mcm": 25.2,
+        "kiskore_also_cm": -365,
+        "kiskore_also_m3s": 45.0,
+        "szolnok_cm": -318,
+        "szolnok_m3s": 46.0,
+        "source": "KOTIVIZIG vizvisszatartas-a-tisza-toban (2026-10-26)"
+      }
+    }
+  ],
+  "precomputed_pairs": [
+    {
+      "pair_id": "2026-06-18_vs_2026-08-29",
+      "date_a": "2026-06-18",
+      "date_b": "2026-08-29",
+      "crid_a": "P05023",
+      "crid_b": "P05023",
+      "spans_instrument_gap": true,
+      "gap_notice": "No NISAR observations are available in 2026-07-27 to 2026-08-10 \u2014 the exact date of this transition can't be resolved.",
+      "persistent_water_km2": 33.62,
+      "likely_water_loss_km2": 10.21,
+      "likely_water_gain_km2": 3.22,
+      "net_water_change_km2": -6.98,
+      "loss_zone_median_delta_hh_db": 7.14,
+      "raster_overlay": "rasters/diff_2026-06-18_vs_2026-08-29.png"
+    },
+    {
+      "pair_id": "2026-06-18_vs_2026-09-10",
+      "date_a": "2026-06-18",
+      "date_b": "2026-09-10",
+      "crid_a": "P05023",
+      "crid_b": "P05023",
+      "spans_instrument_gap": true,
+      "gap_notice": "No NISAR observations are available in 2026-07-27 to 2026-08-10 \u2014 the exact date of this transition can't be resolved.",
+      "persistent_water_km2": 34.2,
+      "likely_water_loss_km2": 9.62,
+      "likely_water_gain_km2": 3.5,
+      "net_water_change_km2": -6.12,
+      "loss_zone_median_delta_hh_db": 5.67,
+      "raster_overlay": "rasters/diff_2026-06-18_vs_2026-09-10.png"
+    },
+    {
+      "pair_id": "2026-06-18_vs_2026-10-16",
+      "date_a": "2026-06-18",
+      "date_b": "2026-10-16",
+      "crid_a": "P05023",
+      "crid_b": "P05023",
+      "spans_instrument_gap": true,
+      "gap_notice": "No NISAR observations are available in 2026-07-27 to 2026-08-10 \u2014 the exact date of this transition can't be resolved.",
+      "persistent_water_km2": 35.36,
+      "likely_water_loss_km2": 8.46,
+      "likely_water_gain_km2": 2.63,
+      "net_water_change_km2": -5.83,
+      "loss_zone_median_delta_hh_db": 4.63,
+      "raster_overlay": "rasters/diff_2026-06-18_vs_2026-10-16.png"
+    },
+    {
+      "pair_id": "2026-07-24_vs_2026-08-17",
+      "date_a": "2026-07-24",
+      "date_b": "2026-08-17",
+      "crid_a": "P05023",
+      "crid_b": "P05023",
+      "spans_instrument_gap": true,
+      "gap_notice": "No NISAR observations are available in 2026-07-27 to 2026-08-10 \u2014 the exact date of this transition can't be resolved.",
+      "persistent_water_km2": 36.61,
+      "likely_water_loss_km2": 5.14,
+      "likely_water_gain_km2": 2.09,
+      "net_water_change_km2": -3.05,
+      "loss_zone_median_delta_hh_db": 4.94,
+      "raster_overlay": "rasters/diff_2026-07-24_vs_2026-08-17.png"
+    }
+  ]
+}

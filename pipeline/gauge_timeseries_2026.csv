@@ -1,0 +1,13 @@
+date,nisar_epoch,kiskore_felso_cm,lake_volume_mcm,usable_volume_mcm,kiskore_also_cm,kiskore_also_m3s,szolnok_cm,szolnok_m3s,source
+2026-06-18,2026-06-18,749,261.55,148.05,-310,80.1,-271,80.5,KOTIVIZIG hidromete (2026-06-18)
+2026-06-29,2026-06-30,738,248.0,134.5,-328,68.0,-288,69.0,Interpolated / Hydroinfo June end
+2026-07-16,2026-07-12,726,235.3,121.8,-342,61.4,-301,62.3,KOTIVIZIG hidroi (2026-07-16)
+2026-07-24,2026-07-24,710,215.0,101.5,-345,60.2,-304,61.0,Pre-gap July late bulletin
+2026-08-19,2026-08-17,642,137.7,24.2,-348,59.7,-306,60.3,KOTIVIZIG hidra (2026-08-19)
+2026-08-31,2026-08-29,610,113.5,0.0,-375,36.0,-330,36.5,Vizugy OpFeGrafikon (2026-08-31)
+2026-09-15,2026-09-10,609,112.45,0.0,-387,33.5,-341,33.0,KOTIVIZIG vizhpzamok (2026-09-15)
+2026-09-21,2026-09-22,613,116.65,3.15,-373,34.5,-338,33.5,KOTIVIZIG aaradnak-folyoink (2026-09-21)
+2026-09-25,2026-10-04,615,118.8,5.3,-378,34.0,-337,34.0,KOTIVIZIG hidrometeorologia (2026-09-25)
+2026-10-20,2026-10-16,625,124.5,11.0,-387,32.5,-337,34.5,KOTIVIZIG emelkedik-a-tisza-to-vizszintje (2026-10-20)
+2026-10-26,2026-10-28,643,138.7,25.2,-365,45.0,-318,46.0,KOTIVIZIG vizvisszatartas-a-tisza-toban (2026-10-26)
+2026-11-11,Current,651,156.5,43.0,-352,55.0,-302,57.0,KOTIVIZIG esok-varhatok (2026-11-11)

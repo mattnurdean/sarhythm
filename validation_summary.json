@@ -1,0 +1,109 @@
+{
+  "threshold_metrology": {
+    "alpha_two_sided": 0.01,
+    "median_effective_looks_L": 9.57,
+    "theoretical_tau_db": 5.33,
+    "stable_reference_classes": {
+      "stable_open_water": {
+        "region": "12 Pure Permanent Deep-Water Pelagial Polygons (25 ha each, ranked by block median)",
+        "sigma_mad_db": 0.452,
+        "three_sigma_guard_db": 1.36
+      },
+      "stable_built_up": {
+        "region": "20 Multi-Hectare Built-Up Fabric Polygons (100 ha each, 100% in-swath)",
+        "sigma_mad_db": 1.119,
+        "three_sigma_guard_db": 3.36
+      }
+    },
+    "final_guard_threshold_t_final_db": 5.33,
+    "formula": "T_final = max(tau_dB, 3 * sigma_stable)",
+    "crid_p05023_to_p05036_urban_offset_db": 0.15
+  },
+  "internal_validation_tests": [
+    {
+      "id": "TEST-01",
+      "name": "Same-Scene Zero-Change Test",
+      "passed": true,
+      "detail": "Changed px = 0"
+    },
+    {
+      "id": "TEST-02",
+      "name": "No-Data Mask Exclusion Test",
+      "passed": true,
+      "detail": "Invalid px classified = 0"
+    },
+    {
+      "id": "TEST-03",
+      "name": "Cross-CRID Boundary Warning Test",
+      "passed": true,
+      "detail": "P05023 vs P05036 flagged (Urban offset = +0.15 dB)"
+    },
+    {
+      "id": "TEST-04",
+      "name": "Bit-Identical Determinism Test",
+      "passed": true,
+      "detail": "SHA256 = 6a13cf501551"
+    },
+    {
+      "id": "TEST-05",
+      "name": "Synthetic 100-Pixel (4.0 ha) Injection Recovery",
+      "passed": true,
+      "detail": "Recovered 100/100 px (100.0%)"
+    }
+  ],
+  "opera_dswx_hls_cross_check": [
+    {
+      "window_role": "June_Peak_Cloudy_Example",
+      "dswx_date": "2026-06-17",
+      "sensor": "L8/L9",
+      "in_swath_pct": 99.8,
+      "cloud_or_shadow_pct": 66.6,
+      "open_water_class1_km2": 3.33,
+      "partial_water_class2_km2": 4.43,
+      "total_dswx_water_km2": 7.76,
+      "granule_file": "OPERA_L3_DSWx-HLS_T34TDT_20260617T092616Z_20260622T073014Z_L8_30_v1.1_B01_WTR.tif"
+    },
+    {
+      "window_role": "Early_Summer_Clear",
+      "dswx_date": "2026-06-19",
+      "sensor": "S2",
+      "in_swath_pct": 100.0,
+      "cloud_or_shadow_pct": 1.8,
+      "open_water_class1_km2": 20.34,
+      "partial_water_class2_km2": 12.88,
+      "total_dswx_water_km2": 33.22,
+      "granule_file": "OPERA_L3_DSWx-HLS_T34TDT_20260619T094051Z_20260722T155152Z_S2A_30_v1.1_B01_WTR.tif"
+    },
+    {
+      "window_role": "Late_Summer_Trough_Clear",
+      "dswx_date": "2026-08-20",
+      "sensor": "L8/L9",
+      "in_swath_pct": 100.0,
+      "cloud_or_shadow_pct": 0.0,
+      "open_water_class1_km2": 16.78,
+      "partial_water_class2_km2": 9.5,
+      "total_dswx_water_km2": 26.28,
+      "granule_file": "OPERA_L3_DSWx-HLS_T34TDT_20260820T092649Z_20260912T163737Z_L8_30_v1.1_B01_WTR.tif"
+    },
+    {
+      "window_role": "Mid_October_Clear",
+      "dswx_date": "2026-10-02",
+      "sensor": "S2",
+      "in_swath_pct": 92.8,
+      "cloud_or_shadow_pct": 0.6,
+      "open_water_class1_km2": 17.16,
+      "partial_water_class2_km2": 7.69,
+      "total_dswx_water_km2": 24.85,
+      "granule_file": "OPERA_L3_DSWx-HLS_T34TDT_20261002T093031Z_20261004T015604Z_S2C_30_v1.1_B01_WTR.tif"
+    }
+  ],
+  "contextual_reference_summary": {
+    "gauge_authority": "K\u00d6TIVIZIG / OVF (Kisk\u00f6re-fels\u0151 2041 & Szolnok 2046)",
+    "stage_drop_cm": -140,
+    "stage_peak_cm": 749,
+    "stage_trough_cm": 609,
+    "volume_drop_mcm": -149.1,
+    "winter_drawdown_check": "Verified via K\u00d6TIVIZIG Oct 22, 2026 order: scheduled autumn/winter drawdown was suspended to retain water.",
+    "opera_dswx_hls_tile": "T34TDT"
+  }
+}

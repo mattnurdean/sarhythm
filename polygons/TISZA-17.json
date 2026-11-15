@@ -1,0 +1,132 @@
+{
+  "polygon_id": "TISZA-17",
+  "name": "Tiszavalki Sub-Basin Sector 17",
+  "zone": "Tiszavalki_Basin",
+  "total_area_ha": 318.1,
+  "baseline_hv_stratification": "Open Water / Shallow Mudflat (Low Baseline HV)",
+  "default_pair": "2026-06-18 -> 2026-08-29",
+  "change_class": "likely_water_loss",
+  "delta_water_ha": -60.32,
+  "delta_hh_db": 4.94,
+  "threshold_t_final_db": 5.33,
+  "clears_threshold": false,
+  "confidence_tier": "Moderate",
+  "confidence_badges": {
+    "same_crid_and_orbit": true,
+    "valid_mask_and_qa": true,
+    "delta_db_clears_t_final": false,
+    "external_reference_agrees": true
+  },
+  "timeseries": [
+    {
+      "date": "2026-06-18",
+      "crid": "P05023",
+      "hh_db": -17.27,
+      "hv_db": -21.45,
+      "hv_carried_from": null,
+      "water_area_ha": 185.76,
+      "water_pct": 58.4,
+      "reed_cover_pct": 34.2
+    },
+    {
+      "date": "2026-06-30",
+      "crid": "P05023",
+      "hh_db": -16.01,
+      "hv_db": -20.77,
+      "hv_carried_from": null,
+      "water_area_ha": 178.64,
+      "water_pct": 56.2,
+      "reed_cover_pct": 36.8
+    },
+    {
+      "date": "2026-07-12",
+      "crid": "P05023",
+      "hh_db": -16.66,
+      "hv_db": -21.08,
+      "hv_carried_from": null,
+      "water_area_ha": 178.6,
+      "water_pct": 56.1,
+      "reed_cover_pct": 37.4
+    },
+    {
+      "date": "2026-07-24",
+      "crid": "P05023",
+      "hh_db": -16.07,
+      "hv_db": -20.73,
+      "hv_carried_from": null,
+      "water_area_ha": 173.04,
+      "water_pct": 54.4,
+      "reed_cover_pct": 37.7
+    },
+    {
+      "date": "2026-08-17",
+      "crid": "P05023",
+      "hh_db": -12.73,
+      "hv_db": -20.06,
+      "hv_carried_from": null,
+      "water_area_ha": 133.48,
+      "water_pct": 42.0,
+      "reed_cover_pct": 43.0
+    },
+    {
+      "date": "2026-08-29",
+      "crid": "P05023",
+      "hh_db": -12.33,
+      "hv_db": null,
+      "hv_carried_from": "2026-08-17",
+      "water_area_ha": 125.44,
+      "water_pct": 39.4,
+      "reed_cover_pct": 43.0
+    },
+    {
+      "date": "2026-09-10",
+      "crid": "P05023",
+      "hh_db": -14.06,
+      "hv_db": -20.97,
+      "hv_carried_from": null,
+      "water_area_ha": 143.8,
+      "water_pct": 45.2,
+      "reed_cover_pct": 39.9
+    },
+    {
+      "date": "2026-09-22",
+      "crid": "P05023",
+      "hh_db": -15.75,
+      "hv_db": null,
+      "hv_carried_from": "2026-09-10",
+      "water_area_ha": 172.8,
+      "water_pct": 54.3,
+      "reed_cover_pct": 39.9
+    },
+    {
+      "date": "2026-10-04",
+      "crid": "P05023",
+      "hh_db": -15.66,
+      "hv_db": -21.12,
+      "hv_carried_from": null,
+      "water_area_ha": 169.28,
+      "water_pct": 53.2,
+      "reed_cover_pct": 40.8
+    },
+    {
+      "date": "2026-10-16",
+      "crid": "P05023",
+      "hh_db": -15.12,
+      "hv_db": -20.64,
+      "hv_carried_from": null,
+      "water_area_ha": 165.24,
+      "water_pct": 51.9,
+      "reed_cover_pct": 38.3
+    },
+    {
+      "date": "2026-10-28",
+      "crid": "P05036",
+      "hh_db": -16.05,
+      "hv_db": -21.07,
+      "hv_carried_from": null,
+      "water_area_ha": 179.56,
+      "water_pct": 56.4,
+      "reed_cover_pct": 37.8
+    }
+  ]
+}
